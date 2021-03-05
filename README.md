@@ -1,6 +1,4 @@
-# role_based_access_control
-
-Role Based Access Control:
+# Role Based Access Control
 
 This system is able to assign a role to user and remove a user from the role.
 
